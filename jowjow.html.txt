@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Video editoriaus paslaugos</title>
+</head>
+<body>
+
+<h1>Video editoriaus paslaugos</h1>
+<p>Aš esu profesionalus video redaktorius, siūlantis platų paslaugų spektrą, pritaikytą prie įvairių klientų poreikių.</p>
+ <p>Pavyzdžiui:Muzikos video kūrimas, Gaming montažai, Reklamos kūrimas</p>
+<a href="https://www.fiverr.com/geilord/do-valorant-csgo-fortnite-montage?utm_source=479317&utm_medium=cx_affiliate&utm_campaign=&afp=MAjRo2wlmGmB&cxd_token=479317_33286919_MAjRo2wlmGmB&show_join=true&context_referrer=tailored_homepage_perseus&source=recently_viewed_gigs&ref_ctx_id=de547b9363484e219987f77041b0b145&context=recommendation&pckg_id=1&pos=1&context_alg=recently_viewed&seller_online=true&imp_id=98c8d429-3c98-4860-a46c-43790202b173">My Fiver</a>
+
+</body>
+</html>
